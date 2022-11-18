@@ -88,11 +88,14 @@ transform: translate(6px, 12px);
 
 .menu
 {
-	width:959px;
-	height:70px;
-	float:right;
-    margin-right: 116px;
+
+    width: 1099px;
+    height: 70px;
+    float: right;
+    /* margin-right: 116px; */
     background-color: rgb(147, 233, 243);
+    float: right;
+    transform: translate(162px, 0px);
 }
 
 .menu li
